@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+langchain
+chromadb
+huggingface_hub
+pymupdf
+python-multipart
